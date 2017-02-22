@@ -26,7 +26,7 @@ navbar-links:
   Startside:
   Prosjekt:
     - Bagrunn for prosjektet: "posts/Bakgrunn-for-prosjekt"
-    - Prosjektbeskrivelse: "posts/first-post"
+    - Prosjektbeskrivelse: "_posts/first-post"
     - Prosjektet mål: ""
     - Oppdragsgiver: ""
     - Milepæler: ""
