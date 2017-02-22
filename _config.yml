@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Startside:
   Prosjekt:
-    - Bagrunn for prosjektet: "posts/2015-01-04-first-post"
+    - Bagrunn for prosjektet: "2015-01-04-first-post"
     - Prosjektbeskrivelse: "_posts/2015-01-04-first-post"
     - Prosjektet mål: ""
     - Oppdragsgiver: ""
