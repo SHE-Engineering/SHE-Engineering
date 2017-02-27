@@ -5,3 +5,5 @@ subtitle:
 ---
 
 TEST
+
+<img src="{{ site.baseurl }}/img/sktech.jpg" />

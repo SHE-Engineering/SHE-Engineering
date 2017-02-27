@@ -13,7 +13,7 @@ title: Robotprosjekt
 # Short description of your site
 description: A virtual proof that name is awesome!
 
-# --- Navigation bar options --- #
+# Adds a collection to make it easier to link to posts from the folder _sider
 collections:
   sider:
     label: sider
@@ -21,6 +21,7 @@ collections:
     permalink: :title.html
     relative_directory: /_sider/
 
+# --- Navigation bar options --- #
 # List of links in the navigation bar
 navbar-links:
   Startside:
