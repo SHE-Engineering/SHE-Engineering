@@ -6,4 +6,4 @@ subtitle:
 
 TEST
 
-<img src="{{ site.baseurl }}/img/sketch.jpg" />
+<center><img src="{{ site.baseurl }}/img/sketch.jpg" /></center>
