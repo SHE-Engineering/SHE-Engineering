@@ -9,7 +9,11 @@ layout: base
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
       <article role="main" class="blog-post">
-        {{ content }}
+        <div style="text-align: center;">
+          <div style="display: inline-block; text-align: left">
+            {{ content }}
+          </div>
+        </div>
       </article>
 
       {% if page.tags.size > 0 %}
