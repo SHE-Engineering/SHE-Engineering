@@ -26,8 +26,8 @@ collections:
 navbar-links:
   Startside:
   Prosjekt:
-    - Bagrunn for prosjektet: "first-post"
-    - Prosjektbeskrivelse: "Bakgrunn-for-prosjekt"
+    - Bagrunn for prosjektet: "Bakgrunn-for-prosjekt"
+    - Prosjektbeskrivelse: ""
     - Prosjektet mål: "first-post"
     - Oppdragsgiver: ""
     - Milepæler: ""
