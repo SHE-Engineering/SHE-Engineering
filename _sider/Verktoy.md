@@ -1,12 +1,16 @@
 ---
 layout: post
-title: test filnedlasting
+title: Verktøy
 subtitle: SHE-Engineering
 ---
 
-some text and [hydraulikk-komendie][1]
+Gruppen har benyttet seg av flere digitale verktøy, her er listen over de.
 
-
-
-
-[1]:{{ site.url }}/download/Hydraulikk-kompendie.pdf
+*  Microsoft office pakken
+*  Autocad
+*  Inventor
+*  Omron Sysmac studio
+*  Omron Touchfinder for PC
+*  Omron Network configurator
+*  OSV
+*  OSV

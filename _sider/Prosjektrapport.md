@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Kontakt oss
+title: Prosjektrapport
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
+Her finner du lenken til [prosjektrapporten][1]
 
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
 
+
+
+[1]:{{ site.url }}/download/Hydraulikk-kompendie.pdf
