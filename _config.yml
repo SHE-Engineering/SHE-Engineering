@@ -11,7 +11,7 @@ baseurl: ""
 title: Robotprosjekt
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Hovedprosjekt 2016-2017
 
 # Adds a collection to make it easier to link to posts from the folder _sider
 collections:
@@ -28,7 +28,7 @@ navbar-links:
   Prosjekt:
     - Bagrunn for prosjektet: "Bakgrunn-for-prosjekt"
     - Prosjektbeskrivelse: "Prosjektbeskrivelse"
-    - Prosjektet mål: "Projektets-mal"
+    - Prosjektet mål: "Prosjektets-mal"
     - Oppdragsgiver: "Oppdragsgiver"
     - Milepæler: "Milepaler"
     - Ressurser: "ressurser"
