@@ -9,4 +9,4 @@ some text and [hydraulikk-komendie][1]
 
 
 
-[1]:{{ site.url }}/_download/Hydraulikk-kompendie.pdf
+[1]:{{ site.url }}/download/Hydraulikk-kompendie.pdf
