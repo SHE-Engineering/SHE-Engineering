@@ -27,21 +27,21 @@ navbar-links:
   Startside:
   Prosjekt:
     - Bagrunn for prosjektet: "Bakgrunn-for-prosjekt"
-    - Prosjektbeskrivelse: ""
+    - Prosjektbeskrivelse: "Prosjektbeskrivelse"
     - Prosjektet mål: "first-post"
-    - Oppdragsgiver: ""
-    - Milepæler: ""
-    - Ressurser: ""
-    - Prosjektrapport: ""
+    - Oppdragsgiver: "Oppdragsgiver"
+    - Milepæler: "Milepaler"
+    - Ressurser: "Ressurser"
+    - Prosjektrapport: "Prosjektrapport"
   Produkt:
-    - Produktbeskrivelse: ""
-    - Servicedokumentasjon: ""
-    - Verktøy: ""
-    - Test og kvalitetssikring: ""
+    - Produktbeskrivelse: "Produktbeskrivelse"
+    - Servicedokumentasjon: "Servicedokumentasjon"
+    - Verktøy: "Verktoy"
+    - Test og kvalitetssikring: "test-og-kvalitetssikring"
   Prosjektgruppe:
-    - Teambeskrivelse: ""
-    - Organisering: ""
-    - Kommunikasjon: ""
+    - Teambeskrivelse: "Teambeskrivelse"
+    - Organisering: "Organisering"
+    - Kommunikasjon: "Kommunikasjon"
   Kontakt oss: "kontakt-oss"
 
 # Image to show in the navigation bar - image must be a square (width = height)
