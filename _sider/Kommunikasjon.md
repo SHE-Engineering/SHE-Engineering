@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Kontakt oss
+title: Kommunikasjon
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
-
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
-
+For å kommunisere har gruppen benyttet seg av flere verktøy. For direkte kommunikasjon har det blitt opprettet en gruppechat på facebook sin messenger tjeneste. For fildeling har det blitt opprettet en dropbox-mappe, hvor alle filer har blitt samlet og arbeidet på. For kommunikasjon med veileder har vi benyttet oss av It's learning sin chattefunksjon. 

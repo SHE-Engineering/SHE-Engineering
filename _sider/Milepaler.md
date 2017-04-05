@@ -1,10 +1,22 @@
 ---
 layout: post
-title: Kontakt oss
+title: Milepæler
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
+Gruppen satte seg tidlig ned for å finne ut av en tidsplan og en plan over hvilke milepæler som måtte nås for å fullføre prosjektet. Her er listen over milepælene vi satt opp:
 
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
-
+Plan for robotlab og finne komponenter
+Bestille deler til robotlab
+Tegne el-skjema
+Bygge el-skap
+Montere rullebånd
+Integrere kamera i robot
+Test av funksjon av robot/kamera
+Bli kjent med programmering av robot
+Sette opp frekvensomformer
+Programmere PLS
+Maskinere deler til bruk i lab
+Dokumentere labøvelse
+Ferdigstille rapport og hovedprosjekt
+Fremføring av hovedprosjekt

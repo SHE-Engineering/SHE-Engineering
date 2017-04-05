@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Kontakt oss
+title: Oppdragsgiver
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
+Vår oppdragsgiver har vært Tinius Olsen Fagskole
 
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
-
+<img src="{{ site.baseurl }}/img/TOS.png"/>
