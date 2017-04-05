@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Kontakt oss
+title: test filnedlasting
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
+some text and [hydraulikk-komendie][1]
 
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
 
+
+
+[1]:{{ site.url }}/_download/Hydraulikk-kompendie.pdf
