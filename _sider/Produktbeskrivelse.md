@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Kontakt oss
+title: Produktbeskrivelse
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
+Gruppen lager en laboppgave som fremtidige studenter skal kunne jobbe med for å tilegne seg informasjon om roboter, og hvordan det kan integreres med vision-systemer. 
 
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
-
+Deler plasseres på et transportbånd, og blir transportert til kameraets måleområde. Om kameraet vurderer delen som godkjent stopper transportbåndet, og roboten får koordinatene til kamereat tilsendt. Roboten vil da plukke opp delen, og sortere den til rett sted. 

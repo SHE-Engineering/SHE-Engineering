@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Kontakt oss
+title: Organisering
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
-
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
-
+Gruppen har en flat struktur, men har valgt Eirik Hatland som leder. Lederen av gruppa har fått ansvar om å følge med på tidsfrister, og å sørge for at ting blir levert inn til rett tid. 

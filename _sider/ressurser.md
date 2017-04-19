@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Kontakt oss
+title: Ressurser
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
+Ressursene gruppen har benyttet seg av er:
 
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
-
+*	Tommy Hvidsten, veileder
+*	Stine Hvila Lind, veileder
+*	Omron teknisk support
+*	Skala teknisk support

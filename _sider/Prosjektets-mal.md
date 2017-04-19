@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Kontakt oss
+title: Prosjektets mål
 subtitle: SHE-Engineering
 ---
 
-Vi er SHE-Engineering
-
-Gruppen består av [Håvard Vikås](https://www.facebook.com/havard.vikas), [Eirik Hatland](https://www.facebook.com/eirik.hatland.7) og [Sindre Hellingsrud](https://www.facebook.com/Sindre.Kvear.Hellingsrud)
-
+Målet med prosjektet er å ha en velfungerende, trygg labøvelse som studenter kan få et godt læringsutbytte av. 
