@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Verktøy
 subtitle: SHE-Engineering
@@ -12,5 +12,6 @@ Gruppen har benyttet seg av flere digitale verktøy, her er listen over de.
 *  Omron Sysmac studio
 *  Omron Touchfinder for PC
 *  Omron Network configurator
-*  OSV
-*  OSV
+*  Dropbox
+*  ProsjectLibre
+*  Teamviewer
