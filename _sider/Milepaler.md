@@ -21,4 +21,5 @@ Gruppen satte seg tidlig ned for å finne ut av en tidsplan og en plan over hvil
 *  Dokumentere labøvelse
 *  Ferdigstille rapport og hovedprosjekt
 *  Fremføring av hovedprosjekt
+
 <img src="{{ site.baseurl }}/img/harlem-hatland.jpg"/>
