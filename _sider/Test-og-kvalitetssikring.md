@@ -4,4 +4,4 @@ title: Test og kvalitetssikring
 subtitle: SHE-Engineering
 ---
 
-Testing og kvalitetssikring har foregått kontinuerlig gjennom hele prosjektperioden. For å dobbeltsjekke koblinger og tegninger har det blitt utført en "ettermannskontroll" hvor et av de andre gruppemedlemmene har sjekket. For å unngå at roboten krasjer eller gjør noe uventet har det blitt sett på ulike scenarioer og iverksatt tiltak mot dette. 
+Testing og kvalitetssikring har foregÃ¥tt kontinuerlig gjennom hele prosjektperioden. For Ã¥ dobbeltsjekke koblinger og tegninger har det blitt utfÃ¸rt en "ettermannskontroll" hvor et av de andre gruppemedlemmene har sjekket. For Ã¥ unngÃ¥ at roboten krasjer eller gjÃ¸r noe uventet har det blitt sett pÃ¥ ulike scenarioer og iverksatt tiltak mot dette. 
