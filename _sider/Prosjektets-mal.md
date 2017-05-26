@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Prosjektets mål
 subtitle: SHE-Engineering
